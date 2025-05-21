@@ -1,0 +1,17 @@
+# Arduino'nun geçici ve derleme dosyaları
+*.hex
+*.elf
+*.eep
+*.bin
+*.out
+*.o
+*.d
+
+# PlatformIO veya başka araçlar varsa
+.pio/
+.vscode/
+.idea/
+
+# MacOS ve diğer sistem artıkları
+.DS_Store
+Thumbs.db
